@@ -8,3 +8,9 @@ int main()
 	sodkflxcv;
 	return 0;
 }
+
+void func(int new)
+{
+	new func;
+	funcl;
+}
